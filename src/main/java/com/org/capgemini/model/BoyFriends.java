@@ -10,7 +10,6 @@ import javax.persistence.Table;
 @Entity
 @Table
 @Data
-
 public class BoyFriends {
     @Id
     private int id;
